@@ -184,7 +184,7 @@ Open `Customer_Retention_Churn_Dashboard.xlsx` and follow the **How_To_Use** tab
 
 | Dashboard | Cohort Heatmap |
 |---|---|
-| ![dashboard](https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/8b8745e81029784de9bee4713f2c86531c92a131/1.png) | ![cohort](screenshots/cohort_heatmap.png) |
+| ![dashboard](https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/8b8745e81029784de9bee4713f2c86531c92a131/1.png) | ![cohort]([screenshots/cohort_heatmap.png](https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/13d559be463b8b3807c27a9233406736bf2d30f2/2.png)) |
 
 ---
 
