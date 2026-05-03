@@ -36,9 +36,9 @@ customer-retention-churn-analysis/
 │   └── Customer_Retention_Churn_Dashboard.xlsx   # Full Excel dashboard
 │
 ├── screenshots/
-│   ├── dashboard_overview.png        # [Add screenshot here]
-│   ├── cohort_heatmap.png            # [Add screenshot here]
-│   └── churn_analysis.png            # [Add screenshot here]
+│   ├── dashboard_overview.png        
+│   ├── cohort_heatmap.png            
+│   └── churn_analysis.png            
 │
 └── README.md
 ```
