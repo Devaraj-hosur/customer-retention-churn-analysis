@@ -186,18 +186,18 @@ Open `Customer_Retention_Churn_Dashboard.xlsx` and follow the **How_To_Use** tab
 |---|---|
 | ![](https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/8b8745e81029784de9bee4713f2c86531c92a131/1.png) 
 | ![](https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/13d559be463b8b3807c27a9233406736bf2d30f2/2.png))
-| (https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/855f93628c1b64dbd086e06c5ec2593e68f309a1/3.png)
+| ![](https://github.com/Devaraj-hosur/customer-retention-churn-analysis/blob/855f93628c1b64dbd086e06c5ec2593e68f309a1/3.png)
 
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**  
+**Devaraj N Hosur**  
 Aspiring Data Analyst  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile URL]  
-💻 [GitHub Profile URL]
+📧 devarajhosur512@gmail.com  
+🔗 (https://www.linkedin.com/in/devaraj-hosur-911b86312/)
+💻 https://github.com/Devaraj-hosur
 
 ---
 
